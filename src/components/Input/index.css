@@ -1,0 +1,11 @@
+.form {
+  text-align: right;
+  width: 100%;
+}
+.form > form {
+  margin-top: 10px;
+}
+.form > form > Button {
+  margin-left: 20px;
+  margin-right: 20px;
+}
